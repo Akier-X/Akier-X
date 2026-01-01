@@ -1,8 +1,14 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0d1117,50:1a1a2e,100:16213e&text=AKIER-X&fontSize=90&fontColor=00d9ff&animation=fadeIn&fontAlignY=38&desc=🤖%20Student%20AI%20Engineer%20|%20未来を創る学生開発者&descSize=18&descAlignY=60&descAlign=50"/>
 
-<!-- AI Neural Network Animation -->
+<!-- 🤖 Cute AI Robot Learning to Walk Animation -->
 <div align="center">
-<img src="https://github.com/Akier-X/Akier-X/blob/main/assets/ai-brain.gif?raw=true" width="600" alt="AI Animation"/>
+
+### 🌟 僕と一緒に成長しよう！ 🌟
+
+<img src="https://github.com/Akier-X/Akier-X/blob/main/assets/learning-robot.svg?raw=true" width="100%" alt="AI Robot Learning to Walk - ころんでも立ち上がる！"/>
+
+<sub>🤖 ころんでも諦めない！学習し続けるAIロボット 💪</sub>
+
 </div>
 
 <div align="center">
