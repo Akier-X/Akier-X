@@ -1,5 +1,10 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0d1117,50:1a1a2e,100:16213e&text=AKIER-X&fontSize=90&fontColor=00d9ff&animation=fadeIn&fontAlignY=38&desc=🤖%20Student%20AI%20Engineer%20|%20未来を創る学生開発者&descSize=18&descAlignY=60&descAlign=50"/>
 
+<!-- AI Neural Network Animation -->
+<div align="center">
+<img src="https://github.com/Akier-X/Akier-X/blob/main/assets/ai-brain.gif?raw=true" width="600" alt="AI Animation"/>
+</div>
+
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=⚡+ようこそ、僕のデジタル空間へ+⚡;🧠+AI+×+コード+＝+無限の可能性;🚀+アイデアを知的システムに変える)](https://git.io/typing-svg)
@@ -14,7 +19,8 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<!-- Animated Line -->
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
 
 <br/>
 
@@ -22,7 +28,7 @@
 
 <table>
 <tr>
-<td width="60%">
+<td width="55%">
 
 ```python
 class AIStudent:
@@ -50,13 +56,21 @@ class AIStudent:
 ```
 
 </td>
-<td width="40%" align="center">
+<td width="45%" align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
+<!-- Coding Animation -->
+<img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438571b79c2a6b9b96/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width="100%"/>
 
 </td>
 </tr>
 </table>
+
+<br/>
+
+<!-- AI Processing Animation -->
+<div align="center">
+<img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg" width="100%">
+</div>
 
 <br/>
 
@@ -89,7 +103,8 @@ class AIStudent:
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<!-- Matrix Rain Animation -->
+<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%">
 
 <br/>
 
@@ -97,49 +112,28 @@ class AIStudent:
 
 <div align="center">
 
-### 🧠 AI / Machine Learning
+<!-- Animated Tech Icons -->
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,ts,react,nextjs,nodejs,fastapi&theme=dark&perline=8" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=docker,git,vscode,vercel,supabase,postgres,mongodb,linux&theme=dark&perline=8" />
+
+<br/><br/>
+
+### 🧠 AI / ML 特化
 
 <br/>
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://tensorflow.org)
 [![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com)
 [![Anthropic](https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white)](https://anthropic.com)
 [![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge)](https://langchain.com)
 [![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge)](https://huggingface.co)
 
-<br/>
-
-### 🌐 Web Development
-
-<br/>
-
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://typescriptlang.org)
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev)
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
-
-<br/>
-
-### 🛠️ Tools & Infrastructure
-
-<br/>
-
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com)
-[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com)
-[![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)](https://cursor.sh)
-[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com)
-[![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com)
-
 </div>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
 
@@ -151,8 +145,9 @@ class AIStudent:
 <tr>
 <td align="center" width="33%">
 
-### 🤖
-**AIエージェント開発**
+<img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="80"/>
+
+### AIエージェント開発
 
 Claude × LangChain で
 自律的に思考・行動する
@@ -161,8 +156,9 @@ AIシステムを構築中
 </td>
 <td align="center" width="33%">
 
-### 🧠
-**LLMアプリケーション**
+<img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="80"/>
+
+### LLMアプリケーション
 
 大規模言語モデルを活用した
 革新的なアプリを
@@ -171,8 +167,9 @@ AIシステムを構築中
 </td>
 <td align="center" width="33%">
 
-### ⚙️
-**自動化システム**
+<img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="80"/>
+
+### 自動化システム
 
 退屈な作業は
 AIに任せて
@@ -186,7 +183,8 @@ AIに任せて
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<!-- Neon Line Animation -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
 
@@ -209,7 +207,8 @@ AIに任せて
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<!-- Animated Wave -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
 
@@ -223,7 +222,8 @@ AIに任せて
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<!-- Glowing Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
 
@@ -233,26 +233,25 @@ AIに任せて
 
 <br/>
 
-```
-╔═══════════════════════════════════════════════════════════════════╗
-║                                                                   ║
-║   "未来を予測する最良の方法は、それを創ることだ"                  ║
-║                                        - アラン・ケイ             ║
-║                                                                   ║
-╚═══════════════════════════════════════════════════════════════════╝
-```
+<!-- AI Quote Animation -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=未来を予測する最良の方法は、それを創ることだ&author=アラン・ケイ" />
 
-<br/>
+<br/><br/>
 
 > 💡 **僕の信念**: AIは人間の可能性を拡張するツール。
 >
 > テクノロジーと創造性を組み合わせて、まだ誰も見たことのない未来を創りたい。
 
+<br/>
+
+<!-- Rotating AI Animation -->
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="80" />
+
 </div>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
 
@@ -272,7 +271,21 @@ AIに任せて
 
 ### 📬 コラボレーション・お仕事のご相談はお気軽に！
 
+<br/>
+
+<!-- Waving Hand Animation -->
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="60" />
+
 </div>
+
+<br/>
+
+<!-- Snake Animation for Contributions -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
+</picture>
 
 <br/>
 
@@ -280,6 +293,7 @@ AIに任せて
 
 <div align="center">
 
-<sub>🤖 AIと情熱で創られたプロフィール</sub>
+<!-- Animated Footer -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=4000&pause=1000&color=888888&center=true&vCenter=true&width=435&lines=🤖+AIと情熱で創られたプロフィール;✨+Thanks+for+visiting!+✨" alt="Footer" />
 
 </div>
